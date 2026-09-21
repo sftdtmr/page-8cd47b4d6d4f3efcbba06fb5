@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "28b7488e7b8653b1175ddf40",
+  "owner": "sftdtmr",
+  "repo": "page-8cd47b4d6d4f3efcbba06fb5",
+  "title": "优速通(U_Speed)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8cd47b4d6d4f3efcbba06fb5",
+      "a": "优速通(U_Speed)",
+      "b": "机场官网线路发布页",
+      "entity": "优速通(U_Speed)",
+      "brand": "优速通(U_Speed)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a1fae8ed8701667c48d11c2979068e40a74407892386e22770f6d2e9f59fd6d0",
+      "content": {
+        "primary_entity": "优速通(U_Speed)",
+        "keyword1": "优速通(U_Speed)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备适合的客户端不一样，订阅配置方式也有差异。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按自己的设备和使用习惯选好套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "先选套餐，再配客户端",
+          "AI_DESCRIPTION": "，品牌提供基础版、旗舰版与团队版三档订阅，月付与年付可选。基础版适合单人或少量设备，旗舰版面向多设备与流媒体、游戏加速需求，团队版则满足高流量与多设备并发场景。选择时可以先确认常用设备数量、每月流量消耗，再对照套餐的设备上限与节点池差异。客户端订阅配置方式因设备而异，按对应文档导入即可。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。设备和流量需求差别大时，建议直接选对应设备上限的档位。",
+          "AI_FAQ_ANSWER_2": "三个套餐都提供月付和年付两种方式。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，年付折算下来每月价格更低。",
+          "AI_FAQ_ANSWER_3": "基础版提供普通线路节点池，旗舰版包含 IPLC 专线并针对游戏加速优化，团队版使用 VIP 专属高带宽节点，可按主要用途选择。",
+          "AI_FAQ_ANSWER_4": "先确认常用设备数量和每月大概流量，再对照套餐的流量上限与设备上限。如果平时只刷网页和视频，基础版就够用。",
+          "AI_FAQ_ANSWER_5": "不同设备的订阅导入方式不一样，按对应客户端文档操作即可。旗舰版还提供 7x24 优先工单支持，遇到配置问题可以提交工单。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "每个套餐分别支持几台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_3": "旗舰版和基础版的节点有什么不同？",
+          "AI_FAQ_QUESTION_4": "怎么判断自己该选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "配置订阅遇到问题怎么办？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量和订阅周期三个角度来选，能更快找到合适的方案。",
+          "AI_FEATURES_TITLE": "选套餐看这三点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，流量需求差别大就按每月消耗量对应选择。",
+          "AI_FEATURE_TEXT_2": "同一时间在线的设备数量决定档位：3 台选基础版，5 台选旗舰版，20 台选团队版。",
+          "AI_FEATURE_TEXT_3": "三个套餐都支持月付和年付，年付价格分别为 ¥150、¥350、¥850，长期使用可以优先考虑年付。",
+          "AI_FEATURE_TITLE_1": "流量档位差异",
+          "AI_FEATURE_TITLE_2": "设备并发上限",
+          "AI_FEATURE_TITLE_3": "月付年付可选",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，按顺序走一遍即可。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_HERO_INTRO": "优速通(U_Speed)提供基础版、旗舰版和团队版三档海外加速订阅，覆盖不同流量与设备数量需求，月付年付均可选择。",
+          "AI_HERO_SUBTITLE": "三档订阅，按设备与流量选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付价格更低，长期更划算",
+          "AI_HIGHLIGHT_3": "按设备数量匹配对应档位",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850。流量段位为 100GB、300GB、1000GB，设备上限依次是 3 台、5 台、20 台。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先看常在线设备数量与每月流量消耗，在基础版、旗舰版、团队版之间锁定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量上限、设备上限和节点类型，是否满足当前使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备上打开客户端文档，按说明导入订阅信息并完成连接配置。",
+          "AI_STEP_TITLE_1": "确认套餐档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "优速通三档订阅可选"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "1rw7c.cn",
+    "host": "1rw7c.cn"
+  },
+  "file_hashes": {
+    "index.html": "6a189f142f759e84956efcb6fd2b16cb15e7444e28f10c710f2723dab761a51b",
+    "sitemap.xml": "783f8f6ac5a4a0e807ebad5c3e8a6d6531ce66264d5be7005e3f69049a5cc973",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f49cb9db9d0bb5bd7e000a4d6ba1e6d33b3048d6f3277f7043f0727e10a241d0",
+    "robots.txt": "0649febce38a50dd88daaa7bfe85e487d8af07043062a2edca0b88b83bf16e09",
+    "d9d1afd4bb09b84d58402cf3a2297047.txt": "c94d5c87a68f551e282104fc4e3ded07ac23a99bf631925405af446689b60d66"
+  },
+  "revision": "41f23a39a6e85ab6f5df3da21691651110279f406d498d7c64b79c0e8d8c2150"
+}
